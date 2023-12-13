@@ -1,1 +1,1 @@
-# 002-FCC-JS-Algo-DS-ES6---ECMAScript
+# 002-FCC-JS-Algo-DS-ES6-ECMAScript
